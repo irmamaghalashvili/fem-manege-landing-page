@@ -43,3 +43,4 @@ For the social icons, you can use the icons provided or a font icon library. Som
 - [Ionicons](https://ionicons.com)
 
 > 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+
